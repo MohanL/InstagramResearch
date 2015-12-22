@@ -7,4 +7,4 @@ I also tried a few other stemming algorithms, but their performance don't make a
 
 
 So I only achieved some basic goals like the frequency analysis, which I have the histograms in the histogram.numbers
-
+Need to separate drug and non-drug related posts based on the last value
